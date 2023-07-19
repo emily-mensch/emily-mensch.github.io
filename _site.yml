@@ -12,5 +12,6 @@ output_dir: 'docs'
 output:
   html_document:
     theme: yeti
+    css: styles.css
       
 
