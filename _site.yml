@@ -1,0 +1,14 @@
+name: "Emily's website"
+navbar:
+  title: "Emily Mensch"
+  left:
+    - text: "Home"
+      href: index.html 
+    - text: "About"
+      href: about.html
+
+output_dir: 'docs'
+
+
+      
+
