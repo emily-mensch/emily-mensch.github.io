@@ -1,7 +1,5 @@
 ---
-title: "Index"
-author: "Emily Mensch"
-date: '2023-07-17'
+title: "Home"
 output: html_document
 ---
 
@@ -9,6 +7,4 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Home 
-
-I am an Ecology PhD student in the Department of Wildlife, Fish, and Conservation Biology at the University of California, Davis. My research interests are in aquatic ecology and conservation, and my dissertation research will involve understanding the interactions between waterbirds and fish in flooded rice fields in California's central valley, and how these affect ecosystem services for rice growers. I currently hold degrees in Fisheries and Wildlife (MSc) and Ecology (BSc).
+I am an Ecology PhD student in the Department of Wildlife, Fish, and Conservation Biology at the University of California, Davis. My research interests are in aquatic ecology and conservation. My current research involves understanding the interactions between waterbirds and fish in flooded rice fields in California's central valley, and how these affect ecosystem services for rice growers. I love thinking about creative solutions to large-scale problems in Ecology, and finding ways to benefit biodiversity and human livelihoods the best we can. I currently hold degrees in Fisheries and Wildlife (MSc) from Michigan State University and Ecology (BSc) from Colorado State University.
