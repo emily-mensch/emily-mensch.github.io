@@ -1,7 +1,4 @@
 ---
-title: "About"
-author: "Emily Mensch"
-date: '2023-07-17'
 output: html_document
 ---
 
