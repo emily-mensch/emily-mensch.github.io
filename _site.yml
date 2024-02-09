@@ -6,6 +6,8 @@ navbar:
       href: index.html 
     - text: "Research"
       href: about.html
+    - text: "Media"
+      href: media.html
 
 output_dir: 'docs'
 
