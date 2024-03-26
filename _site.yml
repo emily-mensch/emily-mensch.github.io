@@ -7,7 +7,7 @@ navbar:
     - text: "Research"
       href: about.html
     - text: "Media"
-      href: media.Rmd
+      href: media.html
 
 output_dir: 'docs'
 
