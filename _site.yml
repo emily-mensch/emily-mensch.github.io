@@ -1,20 +1,13 @@
 name: "Emily's website"
 navbar:
   title: "Emily Mensch"
-  navbar:
   left:
     - text: "Home"
       href: index.html 
     - text: "Research"
       href: about.html
     - text: "Media"
-      href: media.html
-   right:
-      - icon: github
-        href: https://github.com/emily-mensch/
-        aria-label: GitHub
-      - icon: twitter
-        href: https://twitter.com/MenschEmily
+      href: media.Rmd
 
 output_dir: 'docs'
 
