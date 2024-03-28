@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Emily Mensch !xxxc"
+  title: "Emily Mensch"
   navbar:
     left:
       - href: index.qmd
