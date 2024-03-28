@@ -2,3 +2,90 @@
 pagetitle: CV
 title: Emily Mensch
 ---
+
+<style type="text/css">
+h1.title, h2.subtitle, h3.subtitle {
+  text-align: center;
+}
+</style>
+
+<center> <i class="fa fa-envelope-square" aria-hidden="true"></i> l.wood3@exeter.ac.uk | [<i class="fa fa-globe" aria-hidden="true"></i> website](https://liza-wood.github.io/)</center>
+
+***
+
+### EDUCATION 
+
+PhD, Ecology  
+Areas of Emphasis: Conservation Biology  <span style="float:right;">2022 - Present</span>  
+Department of Wildlife, Fish, and Conservation Biology
+University of California Davis, Davis, CA
+
+MS, Fisheries and Wildlife                        <span style="float:right;">2022</span>  
+Michigan State University, East Lansing, MI   
+
+
+BS, Biological Sciences		             	   	           <span style="float:right;">2016</span>
+Area of Emphasis: Ecology
+Minor: Conservation Biology
+Colorado State University, Fort Collins, CO  
+
+***
+
+### PUBLICATIONS
+
+#### PEER-REVIEW PUBLICATIONS  
+
+**Mensch EL**, Dissanayake AA, Nair MG, Wagner CM (2022) The effect of putrescine on space use and activity in sea lamprey. Scientific Reports, 12:17400, [https://doi.org/10.1038/s41598-022-22143-x](https://doi.org/10.1038/s41598-022-22143-x)
+
+**Mensch EL**, Dissanayake AA, Nair MG, Wagner CM (2022) Sea lamprey alarm cue comprises water- and chloroform- soluble components. Journal of Chemical Ecology, 48(9), 704-717. [https://doi.org/10.1007/s10886-022-01384-0](https://doi.org/10.1007/s10886-022-01384-0) 
+
+**Mensch EL**, Kronenberger JA, Broder ED, Fitzpatrick SW, Funk WC, Angeloni LM. (2019) A potential role for immigrant reproductive behavior in the outcome of population augmentations. Animal Conservation, 22(5), 463-471. [https://doi.org/10.1111/acv.12486](https://doi.org/10.1111/acv.12486)
+
+<!---
+#### UNDER REVIEW   
+
+#### IN PREPARATION 
+
+--->
+
+***
+
+### PRESENTATIONS  
+**Mensch EL**, Wagner CM, Nair MG, Dissanayake AA (2023). Using fear to build an effective repellent for invasive sea lamprey. UC Davis’s *Ecology Graduate Student Association Symposium*.
+
+**Mensch EL**, Wagner CM, Nair MG, Dissanayake AA (2022). Progress towards chemical identification of the sea lamprey alarm cue. Invited oral presentation at UC Davis’s *Wildlife, Fisheries and Conservation Biology Seminar Series*.
+
+**Mensch EL**, Wagner CM, Nair MG, Dissanayake AA (2021). Bottling fear: novel methods for invasive species management and conservation of fishes. Oral presentation at *American Fisheries Society’s 151st Annual Meeting*.
+
+**Mensch EL**, Wagner CM, Nair MG, Dissanayake AA (2021). Chemical characterization of the sea lamprey alarm cue. Invited oral presentation for USGS Great Lakes Science Center’s *Science Seminar Series*.
+
+**Mensch EL**, Wagner CM, Nair MG, Dissanayake AA (2020). Crying wolf in sheep’s clothing: can we bottle “fear” to trick invasive species and achieve conservation outcomes? Oral presentation at Michigan State University’s *Fisheries and Wildlife Graduate Student Organization Symposium*.
+
+**Mensch EL**, Kronenberger JA, Broder ED, Funk WC, Angeloni LM (2016). The effects of immigration on mating behavior in Trinidadian guppies. Poster presentation at Colorado State University’s *Celebrate Undergraduate Research and Creativity Showcase*. 
+
+**Mensch EL**, Kronenberger JA, Broder ED, Funk WC, Angeloni LM (2016). The effects of immigration on mating behavior in Trinidadian guppies. Poster presentation at Colorado State University’s *Front Range Student Ecology Symposium*.
+
+***
+
+### TEACHING EXPERIENCE 
+
+Instructor | UC Davis -- Graduate Group in Ecology  
+  ECL 290: Data Visualization and Science Communication <span style="float:right;">Fall 2023</span>  
+  
+Teaching Assistant | UC Davis -- Department of Wildlife, Fish, and Conservation Biology  
+  WFC 10: Wildlife Ecology & Conservation <span style="float:right;">Winter & Spring 2022 & 2023</span> 
+
+***
+
+### SELECTED FELLOWSHIPS, GRANTS & AWARDS  
+Selma Herr Fund for Ornithological Research  <span style="float:right;"> 2023 – 2024</span> 
+
+UC Davis Graduate Group in Ecology Fellowship  <span style="float:right;"> 2023 – 2024</span> 
+UC Davis Henry A. Jastro Student Research Fellowship  <span style="float:right;"> 2023</span> 
+Michigan Chapter of American Fisheries Society Annual Meeting Travel Grant  <span style="float:right;"> 2021</span> 
+
+Michigan Sea Grant-MSU Extension Graduate Fellowship  <span style="float:right;"> 2020</span> 
+***
+
+
+
