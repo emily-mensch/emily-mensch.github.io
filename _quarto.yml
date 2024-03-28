@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Emily Mensch"
+  title: "Emily Mensch !xxxc"
   navbar:
     left:
       - href: index.qmd
@@ -20,7 +20,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: darkly
     toc: true
 
 editor: source
