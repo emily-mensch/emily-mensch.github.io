@@ -14,7 +14,21 @@ h1.title {
 
 <!---<img height="350" style="float: right; margin-left: 2em;" src="img/field.jpg"> --->
 
-[Add in description here]
+Strategies for successfully promoting biodiversity and nature’s benefits within agriculture is good farming. In California, rice farmers flood their fields each winter, supporting millions of migratory waterbirds and other wetland-associated wildlife. Yet, as frequent droughts increase water prices, some growers are beginning to search for alternatives to winter flooding and others are transitioning away from rice entirely. This project seeks to determine whether introducing fish onto rice farms represents a viable path forward for incentivizing winter field flooding. Fish could incentivize flooding by providing growers a valuable ‘second crop’ or payments to support threatened fish, while also mitigating methane emissions. However, no studies have explored how fish interact with waterbirds in rice fields, let alone studied how the practice of introducing fish might affect rice production. Leveraging a large-scale, manipulative experiment in California rice farms, we seek to:
+
+* Quantify biological interactions between waterbirds and introduced fish, including the strength of predation, competition, and/or facilitation.
+
+* Trace the cascading effects of waterbirds and fish in flooded fields, measuring potential effects on rice yields, weed production, nutrient cycling, and straw decomposition.
+
+* Measure the degree to which fish and/or waterbirds can protect our climate.
+
+**Benefits to agriculture**
+
+We hope our work will benefit growers in at least three ways. First, our research may point the way towards strategies for harnessing biodiversity to improve yields and profits. For example, if waterbirds and fish operate in a similar manner to the co-culture systems that are common in China, then reduced weed densities and increased soil fertility could alleviate herbicide and fertilizer application rates and costs. Second, if we find fish reduce methane effluxes, then our project may also offer growers a strategy to address rising federal and state-level concerns about agricultural emissions and or offer additional ways to achieve carbon credits (e.g., California AB1496). Finally, this research may help reconcile existing tensions between growers and fish conservationists. Indeed, there is a possibility for an alternative future, where rice growers act as stewards for California’s native fishes, providing their fields as winter nurseries and reaping the benefits they provide in return.
+
+**Benefits to conservation**
+
+Each winter, millions of waterfowl overwinter in the California, utilizing the flooded rice fields that now act as surrogates for the wetlands that used to cover the Central Valley. Yet climbing water prices have led to growers to begin turning away from flooding, threatening the future and sustainability of this biodiverse agroecosystem. We seek to determine whether introducing more diversity (i.e., fish) could bolster agronomic benefits and mitigate costs such that the practice of winter field flooding may be sustained into the future. In doing so, our study may also provide a path forward for sharing farming landscapes with California’s native fish, over 80% of which are either extinct or at risk of extinction.
 
 *** 
 
