@@ -24,7 +24,7 @@ h1.title {
 
 Relevant publications: 
 
-* **Mensch, E.L.**, Dissanayake, A.A., Nair, M.G., Wagner, C.M. (2022) Sea Lamprey Alarm Cue Comprises Water- and Chloroform- Soluble Components. *Journal of Chemical Ecology 48(9), 704-717*. [https://doi.org/10.1007/s10886-022-01384-0](https://doi.org/10.1007/s10886-022-01384-0). 
+* **Mensch, E.L.**, Dissanayake, A.A., Nair, M.G., Wagner, C.M. (2022) Sea Lamprey Alarm Cue Comprises Water- and Chloroform- Soluble Components. *Journal of Chemical Ecology 48(9), 704-717*. [https://doi.org/10.1007/s10886-022-01384-0](https://doi.org/10.1007/s10886-022-01384-0)
 
 * **Mensch, E.L.**, Dissanayake, A.A., Nair, M.G., Wagner, C.M. (2022) The effect of putrescine on space use and activity in sea lamprey *(Petromyzon marinus)*. *Scientific Reports 12, 17400*. [https://doi.org/10.1038/s41598-022-22143-x](https://doi.org/10.1038/s41598-022-22143-x).
 
