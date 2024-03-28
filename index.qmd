@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Emily Mensch"
 about:
   id: me
   template: trestles
@@ -8,7 +8,6 @@ about:
 
 :::{#me}
 
-## Welcome! 
 I am a PhD student in the Ecology Graduate Group at the University of California, Davis. I work with the I am a Postdoctoral Research Fellow at the University of Exeter. I work with the [Karp Lab](https://karp.ucdavis.edu/), focusing on harmonizing conservation and agriculture, and the [Rypel Lab](https://sites.google.com/view/rypel-lab/home), focusing on fisheries, aquatic ecology, and conservation science. I am a fish ecologist and conservation biologist by trade, and my research goals are applied: using ecological theory and field research to help solve real-world problems. I hold degrees in Fisheries and Wildlife from Michigan State University (MS), and Ecology and Conservation Biology from Colorado State University (BS). Learn more by reading about my [research](projects.html) or checking out my [CV](CV.html)!     
 
 :::

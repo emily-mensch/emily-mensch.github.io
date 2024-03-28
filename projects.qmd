@@ -1,9 +1,35 @@
 ---
-title: "Projects"
+pagetitle: Research
+title: Research
 ---
+<style type="text/css">
+h1.title {
+  text-align: center;
+}
+</style>
 
-## Project 1
+***
 
-## Project 2
+### Reconciling aquatic conservation and large-scale agriculture:  
 
-## Project 3
+<!---<img height="350" style="float: right; margin-left: 2em;" src="img/field.jpg"> --->
+
+[Add in description here]
+
+*** 
+
+### Creative solutions for invasive fish management:
+
+[Add in description here]
+
+Relevant publications: 
+
+***
+
+### Genetic rescue, behavior, and conservation of fishes:
+
+[Add in description here]
+
+Relevant publications: 
+
+***
