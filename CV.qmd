@@ -9,7 +9,7 @@ h1.title, h2.subtitle, h3.subtitle {
 }
 </style>
 
-<center> <i class="fa fa-envelope-square" aria-hidden="true"></i> l.wood3@exeter.ac.uk | [<i class="fa fa-globe" aria-hidden="true"></i> website](https://liza-wood.github.io/)</center>
+<center> <i class="fa fa-envelope-square" aria-hidden="true"></i> emensch@ucdavis.edu | [<i class="fa fa-globe" aria-hidden="true"></i> website](https://emily-mensch.github.io/)</center>
 
 ***
 
@@ -80,11 +80,16 @@ Teaching Assistant | UC Davis -- Department of Wildlife, Fish, and Conservation 
 ### SELECTED FELLOWSHIPS, GRANTS & AWARDS  
 Selma Herr Fund for Ornithological Research  <span style="float:right;"> 2023 – 2024</span> 
 
+
 UC Davis Graduate Group in Ecology Fellowship  <span style="float:right;"> 2023 – 2024</span> 
+
 UC Davis Henry A. Jastro Student Research Fellowship  <span style="float:right;"> 2023</span> 
+
 Michigan Chapter of American Fisheries Society Annual Meeting Travel Grant  <span style="float:right;"> 2021</span> 
 
+
 Michigan Sea Grant-MSU Extension Graduate Fellowship  <span style="float:right;"> 2020</span> 
+
 ***
 
 
