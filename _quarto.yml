@@ -8,19 +8,21 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - href: projects.qmd
+        text: Research
+      - href: CV.qmd
+        text: CV
     tools:
       - icon: twitter
         href: https://twitter.com/MenschEmily
       - icon: github
         href: https://github.com/emily-mensch
-  page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, Emily Mensch"
+
 
 format:
   html:
-    theme: darkly
+    theme: styles.scss
+    mainfont: 'Jost'
     toc: true
 
 editor: source
