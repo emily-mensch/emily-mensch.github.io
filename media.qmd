@@ -2,3 +2,15 @@
 pagetitle: Media
 title: Media
 ---
+<style type="text/css">
+h1.title {
+  text-align: center;
+}
+</style>
+
+***
+
+### Articles:  
+* UC Davis College of Agricultural and Environmental Sciences, [Birds and Fish in Flooded Rice Fields: Promoting Biodiversity and Climate Protection](https://caes.ucdavis.edu/news/birds-and-fish-flooded-rice-fields-promoting-biodiversity-and-climate-protection)
+
+* Spotlight Magazine, ["Sea Lamprey: Monsters or Misunderstood?"](https://spotlight-msu.medium.com/sea-lamprey-monsters-or-misunderstood-b8214a070de3)
