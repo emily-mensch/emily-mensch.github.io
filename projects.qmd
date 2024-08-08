@@ -12,8 +12,7 @@ h1.title {
 
 ### Reconciling wetland conservation and large-scale agriculture:  
 
-<img height="450" ;" src="img/Montna.jpg">
-<!---<img height="250" style="float: right; margin-left: 1em;" src="img/Montna.jpg"> --->
+<img height="250" style="float: right; margin-left: 1em;" src="img/Montna.jpg">
 
 Strategies for successfully promoting biodiversity and nature’s benefits within agriculture is good farming. In California, rice farmers flood their fields each winter, supporting millions of migratory waterbirds and other wetland-associated wildlife. Yet, as frequent droughts increase water prices, some growers are beginning to search for alternatives to winter flooding and others are transitioning away from rice entirely. This project seeks to determine whether introducing fish onto rice farms represents a viable path forward for incentivizing winter field flooding. Fish could incentivize flooding by providing growers a valuable ‘second crop’ or payments to support threatened fish, while also mitigating methane emissions. However, no studies have explored how fish interact with waterbirds in rice fields, let alone studied how the practice of introducing fish might affect rice production. Leveraging a large-scale, manipulative experiment in California rice farms, we seek to:
 
