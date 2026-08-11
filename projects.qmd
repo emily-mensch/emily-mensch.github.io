@@ -30,6 +30,10 @@ We hope our work will benefit growers in at least three ways. First, our researc
 
 Each winter, millions of waterfowl overwinter in the California, utilizing the flooded rice fields that now act as surrogates for the wetlands that used to cover the Central Valley. Yet climbing water prices have led to growers to begin turning away from flooding, threatening the future and sustainability of this biodiverse agroecosystem. We seek to determine whether introducing more diversity (i.e., fish) could bolster agronomic benefits and mitigate costs such that the practice of winter field flooding may be sustained into the future. In doing so, our study may also provide a path forward for sharing farming landscapes with California’s native fish, over 80% of which are either extinct or at risk of extinction.
 
+Relevant publications: 
+
+* Pérez-Méndez, N., Echeverría-Progulakis, S., Katayama, N., Amano, T., Smith, P., Cambero-Conejero, G., **Mensch, E.L.**, Karp, D.S., Martínez-Eixarch, M.(2026) Climate Change Mitigation in Rice Farming Should Account for Biodiversity. *Global Change Biology 32(2), e70754*. [https://doi.org/10.1111/gcb.70754](https://doi.org/10.1111/gcb.70754)
+
 *** 
 
 ### Harnessing a "fear" odor for invasive fish management:
